@@ -28,6 +28,6 @@ Olá me chamo Theo Meduri, desde os 13 anos, quando decidi começar a programar,
 
 <br>
 
-### 📊 Statisticas
+### 📊 Estatísticas
 
 ![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theomeduri&show_icons=true&theme=gruvbox)
